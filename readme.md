@@ -1,10 +1,7 @@
-# Ask me anything!
-
-## [🙋🏻Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp;
-## [👀Read questions](../../issues?q=is%3Aissue+is%3Aopen)
+<h1 align="center">Ask me anything!</h1>
 
 
--
+<h1 align="center">[ 🙋🏼 <a href="../../issues/new">Ask a question</a> ] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ 👀 <a href="../../issues?q=is%3Aissue+is%3Aopen">Read questions</a> ]</h1>
 
 ### Guidelines
 
