@@ -3,6 +3,8 @@
 
 <h1 align="center">[ 🙋🏼 <a href="../../issues/new">Ask a question</a> ] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ 👀 <a href="../../issues?q=is%3Aissue+is%3Aopen">Read questions</a> ]</h1>
 
+<br><br><br><br><br><br>
+
 ### Guidelines
 
 - Ensure your question hasn't already been answered.
